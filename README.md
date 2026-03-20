@@ -55,7 +55,12 @@ RiShade uses GLFW to create a transparent, on top OpenGL window that covers your
 
 ## License
 
-MIT License see `LICENSE` for details.
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 33%; text-align: left;">© RiShade</td>
+    <td style="width: 33%; text-align: right;"><a href="https://github.com/KloBraticc/RiShade/blob/main/LICENSE" target="_blank">MIT</a></td>
+  </tr>
+</table>
 
 > [!WARNING]
 > RiShade is inspired by Bloxshade. Everything here is still a WIP.
