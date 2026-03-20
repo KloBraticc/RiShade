@@ -140,7 +140,6 @@ def delete_custom_preset(name: str) -> bool:
 
 
 def _force_tk_topmost(hwnd_tk):
-    """Push a tkinter HWND above the borderless Roblox layer."""
     try:
         if not hwnd_tk:
             hwnd_tk = win32gui.FindWindow("TkTopLevel", None)
