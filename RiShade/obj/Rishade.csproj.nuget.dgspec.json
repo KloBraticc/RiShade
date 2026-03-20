@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Rishade.csproj": {}
+    "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Rishade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Rishade.csproj": {
+    "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Rishade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Rishade.csproj",
+        "projectUniqueName": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Rishade.csproj",
         "projectName": "Rishade",
-        "projectPath": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Rishade.csproj",
+        "projectPath": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Rishade.csproj",
         "packagesPath": "C:\\Users\\freew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\obj\\",
+        "outputPath": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

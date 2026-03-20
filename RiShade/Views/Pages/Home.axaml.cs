@@ -17,7 +17,8 @@ namespace Rishade.Views;
 public partial class Home : UserControl
 {
 	private int _step = 1;
-	private SolidColorBrush _accent = new SolidColorBrush(Color.Parse("#0078D4"));
+    private string? _resolvedPythonExe;
+    private SolidColorBrush _accent = new SolidColorBrush(Color.Parse("#0078D4"));
 
 	private const string RepoOwner = "KloBraticc";
 	private const string RepoName = "RiShade";
@@ -35,23 +36,24 @@ public partial class Home : UserControl
 	private static readonly string InstallerJsonPath =
 		System.IO.Path.Combine(RiShadeDir, "installer.json");
 
-	private readonly List<(string package, string display)> _packages = new List<(string package, string display)>()
-	{
-		("setuptools",           "Setup Tools"),
-		("wheel",                "Wheel Optimizer"),
-		("imgui[glfw]",          "imgui (glfw)"),
-		("PyOpenGL",             "PyOpenGL"),
-		("PyOpenGL-accelerate",  "PyOpenGL Accelerate"),
-		("opencv-python",        "OpenCV (Image Logic)"),
-		("numpy",                "numpy"),
-		("psutil",               "psutil"),
-		("pywin32",              "pywin32"),
-		("glfw",                 "glfw"),
-		("dxcam",                "dxcam"),
-		("mss",                  "mss"),
-	};
+    private readonly List<(string package, string display)> _packages = new List<(string package, string display)>()
+{
+    ("setuptools",           "Setup Tools"),
+    ("wheel",                "Wheel Optimizer"),
+    ("imgui[glfw]",          "ImGui + GLFW Bindings"),
+    ("glfw",                 "GLFW Framework"),
+    ("PyOpenGL",             "PyOpenGL"),
+    ("PyOpenGL-accelerate",  "PyOpenGL Accelerate"),
+    ("numpy",                "NumPy"),
+    ("psutil",               "Process Utility"),
+    ("pywin32",              "Windows API (win32)"),
+    ("pywin32-ctypes",       "Win32 C-Types"),
+    ("opencv-python",        "OpenCV (Image Processing)"),
+    ("dxcam",                "DXCam Screen Capture"),
+    ("mss",                  "MSS Capture"),
+};
 
-	public Home()
+    public Home()
 	{
 		InitializeComponent();
 		_accent = new SolidColorBrush(GetWindowsAccentColor());
@@ -205,35 +207,38 @@ public partial class Home : UserControl
 		this.FindControl<ProgressBar>("InstallProgress")!.Foreground =
 			new SolidColorBrush(Color.Parse("#EF4444")));
 
-	private void ShowFinishButton(string label) => Dispatcher.UIThread.Post(() =>
-	{
-		Button btn = this.FindControl<Button>("NextBtn")!;
-		btn.Content = label;
-		btn.IsVisible = true;
-		btn.Click -= null;
+    private void ShowFinishButton(string label) => Dispatcher.UIThread.Post(() =>
+    {
+        Button btn = this.FindControl<Button>("NextBtn")!;
+        btn.Content = label;
+        btn.IsVisible = true;
+        btn.Click -= null;
 
-		btn.Click += (object? sender, RoutedEventArgs args) =>
-		{
-			string shaderPath = System.IO.Path.Combine(
-				Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
-				"Rishade",
-				"ShaderPy",
-				"ri_shade.py");
+        btn.Click += (object? sender, RoutedEventArgs args) =>
+        {
+            bool robloxRunning = Process.GetProcessesByName("RobloxPlayerBeta").Length > 0;
 
-			ProcessStartInfo psi = new ProcessStartInfo
-			{
-				FileName = "python",
-				Arguments = $"\"{shaderPath}\"",
-				WorkingDirectory = System.IO.Path.GetDirectoryName(shaderPath),
-				UseShellExecute = true,
-				CreateNoWindow = false
-			};
+            if (!robloxRunning)
+            {
+                AppendLog("Roblox is not running.");
+                return;
+            }
 
-			Process.Start(psi);
-		};
-	});
+            string shaderPath = System.IO.Path.Combine(RiShadeDir, "ShaderPy", "ri_shade.py");
+            string pythonPath = _resolvedPythonExe ?? "python";
 
-	private static string? ReadInstalledVersion()
+            ProcessStartInfo psi = new ProcessStartInfo
+            {
+                FileName = "cmd.exe",
+                Arguments = $"/k \"\"{pythonPath}\" \"{shaderPath}\"\"",
+                WorkingDirectory = System.IO.Path.GetDirectoryName(shaderPath),
+                UseShellExecute = true
+            };
+            Process.Start(psi);
+        };
+    });
+
+    private static string? ReadInstalledVersion()
 	{
 		try
 		{
@@ -359,7 +364,8 @@ public partial class Home : UserControl
 		SetTitle("Downloading ri_shader.py...");
 		await DownloadRiShadeScript();
 		SetProgress(100);
-		ShowFinishButton("Start");
+        SetTitle("Ready to Play!");
+        ShowFinishButton("Start");
 	}
 
 	private async Task DownloadRiShadeScript()
@@ -512,7 +518,7 @@ public partial class Home : UserControl
 			{
 				RedirectStandardOutput = true,
 				RedirectStandardError = true,
-				UseShellExecute = true,
+				UseShellExecute = false,
 				CreateNoWindow = true,
 			};
 			using (Process? proc = Process.Start(psi))

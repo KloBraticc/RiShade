@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ghyouvymf/8=",
+  "dgSpecHash": "9IoWR6WAvVw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Rishade.csproj",
+  "projectFilePath": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Rishade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\freew\\.nuget\\packages\\avalonia\\11.3.12\\avalonia.11.3.12.nupkg.sha512",
     "C:\\Users\\freew\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.25547.20250602\\avalonia.angle.windows.natives.2.1.25547.20250602.nupkg.sha512",

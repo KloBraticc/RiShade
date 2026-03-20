@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\",
+  "WorkspaceRootPath": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\buttonstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:buttonstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\iconssvg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:iconssvg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\services\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:services\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\styles\\appstyles.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:styles\\appstyles.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\views\\pages\\home.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:views\\pages\\home.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\views\\pages\\home.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\views\\pages\\home.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:views\\pages\\home.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\rishade.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\rishade.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:rishade.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\obj\\Release\\net10.0\\win-x64\\Rishade.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\obj\\Release\\net10.0\\win-x64\\Rishade.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Release\\net10.0\\win-x64\\Rishade.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\rishade-main\\rishade\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\buttonstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:buttonstatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\iconssvg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:iconssvg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\services\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:services\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\styles\\appstyles.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:styles\\appstyles.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\views\\pages\\home.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:views\\pages\\home.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|c:\\users\\freew\\documents\\git\\rishade\\rishade\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D03A140A-1928-10BC-A777-141877403D56}|Rishade.csproj|solutionrelative:properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -74,39 +74,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Animation.cs",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Services\\Animation.cs",
-              "RelativeDocumentMoniker": "Services\\Animation.cs",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Services\\Animation.cs",
-              "RelativeToolTip": "Services\\Animation.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAgwGEAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T05:26:53.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\ViewModels\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\ViewModels\\ViewModelBase.cs",
-              "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T17:51:39.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\ViewModels\\MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,11 +90,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Program.cs",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,11 +102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IconsSVG.cs",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\IconsSVG.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\IconsSVG.cs",
               "RelativeDocumentMoniker": "IconsSVG.cs",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\IconsSVG.cs",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\IconsSVG.cs",
               "RelativeToolTip": "IconsSVG.cs",
               "ViewState": "AgIAAF0AAAAAAAAAAADwv2gAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,11 +114,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ButtonStatic.cs",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\ButtonStatic.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\ButtonStatic.cs",
               "RelativeDocumentMoniker": "ButtonStatic.cs",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\ButtonStatic.cs",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\ButtonStatic.cs",
               "RelativeToolTip": "ButtonStatic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAcwBMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,104 +126,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Home.axaml",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Views\\Pages\\Home.axaml",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Views\\Pages\\Home.axaml",
               "RelativeDocumentMoniker": "Views\\Pages\\Home.axaml",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Views\\Pages\\Home.axaml",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Views\\Pages\\Home.axaml",
               "RelativeToolTip": "Views\\Pages\\Home.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-15T13:28:13.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "App.axaml",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\App.axaml",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\App.axaml",
               "RelativeDocumentMoniker": "App.axaml",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\App.axaml",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\App.axaml",
               "RelativeToolTip": "App.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-13T13:51:28.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Home.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Views\\Pages\\Home.axaml.cs",
-              "RelativeDocumentMoniker": "Views\\Pages\\Home.axaml.cs",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Views\\Pages\\Home.axaml.cs",
-              "RelativeToolTip": "Views\\Pages\\Home.axaml.cs",
-              "ViewState": "AgIAAGEBAAAAAAAAAAAnwHQBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T13:28:23.976Z"
+              "WhenOpened": "2026-03-13T13:51:28.089Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\App.axaml.cs",
-              "RelativeDocumentMoniker": "App.axaml.cs",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\App.axaml.cs",
-              "RelativeToolTip": "App.axaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Title": "Home.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Views\\Pages\\Home.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\Pages\\Home.axaml.cs",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Views\\Pages\\Home.axaml.cs",
+              "RelativeToolTip": "Views\\Pages\\Home.axaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwEUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T17:59:57.531Z",
+              "WhenOpened": "2026-03-15T13:28:23.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppStyles.axaml",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Styles\\AppStyles.axaml",
-              "RelativeDocumentMoniker": "Styles\\AppStyles.axaml",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Styles\\AppStyles.axaml",
-              "RelativeToolTip": "Styles\\AppStyles.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-13T13:53:06.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Views\\MainWindow.axaml",
-              "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Views\\MainWindow.axaml",
-              "RelativeToolTip": "Views\\MainWindow.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-13T13:51:54.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainWindow.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Views\\MainWindow.axaml.cs",
-              "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Views\\MainWindow.axaml.cs",
-              "RelativeToolTip": "Views\\MainWindow.axaml.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAywJUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:59:56.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Rishade",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Rishade.csproj",
-              "RelativeDocumentMoniker": "Rishade.csproj",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Rishade.csproj",
-              "RelativeToolTip": "Rishade.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-13T17:13:06.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Rishade.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\obj\\Release\\net10.0\\win-x64\\Rishade.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\obj\\Release\\net10.0\\win-x64\\Rishade.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "obj\\Release\\net10.0\\win-x64\\Rishade.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\obj\\Release\\net10.0\\win-x64\\Rishade.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\obj\\Release\\net10.0\\win-x64\\Rishade.AssemblyInfo.cs",
               "RelativeToolTip": "obj\\Release\\net10.0\\win-x64\\Rishade.AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +173,93 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Services\\Animation.cs",
+              "RelativeDocumentMoniker": "Services\\Animation.cs",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Services\\Animation.cs",
+              "RelativeToolTip": "Services\\Animation.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwGEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T05:26:53.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rishade",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Rishade.csproj",
+              "RelativeDocumentMoniker": "Rishade.csproj",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Rishade.csproj",
+              "RelativeToolTip": "Rishade.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T17:13:06.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:51:39.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\App.axaml.cs",
+              "RelativeDocumentMoniker": "App.axaml.cs",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\App.axaml.cs",
+              "RelativeToolTip": "App.axaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:59:57.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppStyles.axaml",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Styles\\AppStyles.axaml",
+              "RelativeDocumentMoniker": "Styles\\AppStyles.axaml",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Styles\\AppStyles.axaml",
+              "RelativeToolTip": "Styles\\AppStyles.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T13:53:06.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-13T13:51:54.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAywJUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:59:56.478Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
               "Title": "FolderProfile.pubxml",
-              "DocumentMoniker": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Properties\\PublishProfiles\\FolderProfile.pubxml",
               "RelativeDocumentMoniker": "Properties\\PublishProfiles\\FolderProfile.pubxml",
-              "ToolTip": "C:\\Users\\freew\\Documents\\RiShade-Main\\RiShade\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\freew\\Documents\\Git\\RiShade\\RiShade\\Properties\\PublishProfiles\\FolderProfile.pubxml",
               "RelativeToolTip": "Properties\\PublishProfiles\\FolderProfile.pubxml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",

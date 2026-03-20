@@ -1,0 +1,1 @@
+C:\Users\freew\Documents\Git\RiShade\RiShade\bin\Release\net10.0\publish\win-x64\Rishade.exe

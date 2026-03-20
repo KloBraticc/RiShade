@@ -28,20 +28,20 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Rishade
-build_property.ProjectDir = C:\Users\freew\Documents\RiShade-Main\RiShade\
+build_property.ProjectDir = C:\Users\freew\Documents\Git\RiShade\RiShade\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/freew/Documents/RiShade-Main/RiShade/App.axaml]
+[C:/Users/freew/Documents/Git/RiShade/RiShade/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/freew/Documents/RiShade-Main/RiShade/Styles/AppStyles.axaml]
+[C:/Users/freew/Documents/Git/RiShade/RiShade/Styles/AppStyles.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/freew/Documents/RiShade-Main/RiShade/Views/MainWindow.axaml]
+[C:/Users/freew/Documents/Git/RiShade/RiShade/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/freew/Documents/RiShade-Main/RiShade/Views/Pages/Home.axaml]
+[C:/Users/freew/Documents/Git/RiShade/RiShade/Views/Pages/Home.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
