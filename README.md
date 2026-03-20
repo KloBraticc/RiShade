@@ -3,6 +3,10 @@
 <h5 align="center">Mini Project</h5>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/KloBraticc/RiShade/main/Images/RiShde.png" alt="preview" width="30%"/>
+</p>
+
+<p align="center">
   <a href="github.com/KloBraticc/RiShade/releases/latest">Latest release</a> |
   <a href="https://voidstrapp.netlify.app/donate/donate">Donate</a> |
   <a href="https://discord.gg/5tJBqBH8ck">Discord</a>
