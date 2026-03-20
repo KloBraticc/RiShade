@@ -23,7 +23,7 @@ import win32ui
 from imgui.integrations.glfw import GlfwRenderer
 from OpenGL.GL import *
 
-# This project took approximately an hour to complete,
+# This project took approximately days to complete not hours days,
 # I am currently learning Python and utilized a significant amount of AI assistance for this mini project
 # If this project grows significantly, I plan to continue developing my Python skills further
 # I also watched numerous tutorials throughout the process.
