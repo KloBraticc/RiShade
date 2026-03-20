@@ -10,8 +10,8 @@
   <PackageIcon>Rishade.png</PackageIcon>
   <ApplicationIcon>favicon.ico</ApplicationIcon>
 
-  <FileVersion>1.0.0.1</FileVersion>
-  <AssemblyVersion>1.0.0.1</AssemblyVersion>
+  <FileVersion>1.0.0.5</FileVersion>
+  <AssemblyVersion>1.0.0.5</AssemblyVersion>
 
   <RepositoryUrl>https://github.com/Rishade/Rishade</RepositoryUrl>
   <RuntimeIdentifier>win-x64</RuntimeIdentifier>
