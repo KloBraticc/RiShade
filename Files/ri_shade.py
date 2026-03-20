@@ -370,7 +370,7 @@ class Settings:
     ssr_str: float = 1.00
     ssr_threshold: float = 0.50
     ssr_roughness: float = 0.000
-    ssr_max_dist: float = 0.500
+    ssr_max_dist: float = 0.135
     ssr_x_nudge: float = 0.010
     ssr_motion_scale: float = 0.45
     ssr_fade_lo: float = 0.001
