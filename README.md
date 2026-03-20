@@ -1,5 +1,7 @@
 <h1 align="center"><b>Rishade</b></h1>
 
+<h5 align="center">Mini Project</h5>
+
 <p align="center">
   <a href="github.com/KloBraticc/RiShade/releases/latest">Latest release</a> |
   <a href="https://voidstrapp.netlify.app/donate/donate">Donate</a> |
