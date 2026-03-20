@@ -1,0 +1,10 @@
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\obj\Release\net10.0\osx-x64\Voidstrap.csproj.AssemblyReference.cache
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\obj\Release\net10.0\osx-x64\Avalonia\Resources.Inputs.cache
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\obj\Release\net10.0\osx-x64\Avalonia\resources
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\obj\Release\net10.0\osx-x64\Voidstrap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\obj\Release\net10.0\osx-x64\Voidstrap.AssemblyInfoInputs.cache
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\obj\Release\net10.0\osx-x64\Voidstrap.AssemblyInfo.cs
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\obj\Release\net10.0\osx-x64\Voidstrap.csproj.CoreCompileInputs.cache
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\obj\Release\net10.0\osx-x64\Voidstrap.dll
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\obj\Release\net10.0\osx-x64\refint\Voidstrap.dll
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\obj\Release\net10.0\osx-x64\Voidstrap.pdb

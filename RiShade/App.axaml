@@ -1,0 +1,20 @@
+<Application xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="Rishade.App"
+             xmlns:local="using:Rishade"
+             RequestedThemeVariant="Default">
+  
+    <Application.Styles>
+        <FluentTheme />
+        <StyleInclude Source="avares://Rishade/Styles/AppStyles.axaml" />
+
+<Style Selector="TextBlock, Button, TextBox, ComboBox, ListBox, ListBoxItem">
+    <Setter Property="TextBlock.FontFamily" Value="Segoe UI"/>
+</Style>
+<Style Selector="Button">
+    <Setter Property="Transitions">
+        <Transitions/>
+    </Setter>
+</Style>
+</Application.Styles>
+</Application>

@@ -1,0 +1,148 @@
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/soberstrap-avalonia.csproj.AssemblyReference.cache
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/Avalonia/resources
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/soberstrap-avalonia.GeneratedMSBuildEditorConfig.editorconfig
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/soberstrap-avalonia.AssemblyInfoInputs.cache
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/soberstrap-avalonia.AssemblyInfo.cs
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/soberstrap-avalonia.csproj.CoreCompileInputs.cache
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/soberstrap-avalonia
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/soberstrap-avalonia.deps.json
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/soberstrap-avalonia.runtimeconfig.json
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/soberstrap-avalonia.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/soberstrap-avalonia.pdb
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Base.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Controls.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Markup.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Metal.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Controls.ColorPicker.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Desktop.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Diagnostics.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Native.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Skia.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Themes.Simple.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.Win32.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Avalonia.X11.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/CommunityToolkit.Mvvm.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/HarfBuzzSharp.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/MicroCom.Runtime.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/SkiaSharp.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/soberstr.0B090FC7.Up2Date
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/soberstrap-avalonia.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/refint/soberstrap-avalonia.dll
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/soberstrap-avalonia.pdb
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/soberstrap-avalonia.genruntimeconfig.cache
+/home/ammardoma/PROJECT 11493/soberstrap-avalonia/obj/Debug/net10.0/ref/soberstrap-avalonia.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\soberstrap-avalonia.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\refint\soberstrap-avalonia.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\soberstrap-avalonia.pdb
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\soberstrap-avalonia.exe
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\soberstrap-avalonia.deps.json
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\soberstrap-avalonia.runtimeconfig.json
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\soberstrap-avalonia.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\soberstrap-avalonia.pdb
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Base.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Controls.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.DesignerSupport.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Dialogs.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Markup.Xaml.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Markup.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Metal.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.MicroCom.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.OpenGL.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Vulkan.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Desktop.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Diagnostics.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Fonts.Inter.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.FreeDesktop.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Native.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Remote.Protocol.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Skia.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Themes.Fluent.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Themes.Simple.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Win32.Automation.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.Win32.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Avalonia.X11.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\CommunityToolkit.Mvvm.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\HarfBuzzSharp.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\MicroCom.Runtime.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\SkiaSharp.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\Tmds.DBus.Protocol.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\bin\Debug\net10.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\soberstrap-avalonia.csproj.AssemblyReference.cache
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\Avalonia\resources
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\soberstrap-avalonia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\soberstrap-avalonia.AssemblyInfoInputs.cache
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\soberstrap-avalonia.AssemblyInfo.cs
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\soberstrap-avalonia.csproj.CoreCompileInputs.cache
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\soberstr.0B090FC7.Up2Date
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\soberstrap-avalonia.genruntimeconfig.cache
+C:\Users\freew\Downloads\Soberstrap-main\Soberstrap-main\obj\Debug\net10.0\ref\soberstrap-avalonia.dll

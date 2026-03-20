@@ -1,0 +1,5 @@
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\bin\Release\net10.0\publish\win-x64\Voidstrap.pdb
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\bin\Release\net10.0\publish\win-x64\av_libglesv2.dll
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\bin\Release\net10.0\publish\win-x64\libHarfBuzzSharp.dll
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\bin\Release\net10.0\publish\win-x64\libSkiaSharp.dll
+C:\Users\freew\Documents\Voidstrap-MainGit\Voidstrap-main\bin\Release\net10.0\publish\win-x64\Voidstrap.exe

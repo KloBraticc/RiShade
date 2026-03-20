@@ -1,0 +1,221 @@
+<Styles xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+  <Styles.Resources>
+<Color x:Key="AppBg">#FF1AC8D4</Color>
+<Color x:Key="PanelBg">#CC0F0F0F</Color>
+<Color x:Key="PanelBg2">#CC161616</Color>
+<Color x:Key="PanelBg3">#CC0F0F0F</Color>
+
+    <Color x:Key="BorderColor">#333333</Color>
+
+    <Color x:Key="TextColor">#EEF0F4</Color>
+    <Color x:Key="MutedColor">#9A9A9A</Color>
+
+    <Color x:Key="Accent">#5DD1FF</Color>
+
+    <SolidColorBrush x:Key="AppBgBrush" Color="{StaticResource AppBg}" />
+    <SolidColorBrush x:Key="PanelBgBrush" Color="{StaticResource PanelBg}" />
+    <SolidColorBrush x:Key="PanelBg2Brush" Color="{StaticResource PanelBg2}" />
+    <SolidColorBrush x:Key="PanelBg3Brush" Color="{StaticResource PanelBg3}" />
+    <SolidColorBrush x:Key="BorderBrush" Color="{StaticResource BorderColor}" />
+    <SolidColorBrush x:Key="TextBrush" Color="{StaticResource TextColor}" />
+    <SolidColorBrush x:Key="MutedBrush" Color="{StaticResource MutedColor}" />
+    <SolidColorBrush x:Key="AccentBrush" Color="{StaticResource Accent}" />
+
+    <LinearGradientBrush x:Key="SelectedBrush" StartPoint="0,0" EndPoint="1,0">
+      <GradientStop Color="#66303030" Offset="0"/>
+      <GradientStop Color="#44202020" Offset="1"/>
+    </LinearGradientBrush>
+
+    <LinearGradientBrush x:Key="PrimaryBrush" StartPoint="0,0" EndPoint="1,1">
+      <GradientStop Color="#55C7FF" Offset="0"/>
+      <GradientStop Color="#73E0FF" Offset="1"/>
+    </LinearGradientBrush>
+
+  </Styles.Resources>
+
+  <Style Selector="Window">
+    <Setter Property="Background">
+      <Setter.Value>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+          <GradientStop Color="{StaticResource AppBg}" Offset="0"/>
+          <GradientStop Color="{StaticResource PanelBg}" Offset="0.5"/>
+          <GradientStop Color="{StaticResource PanelBg2}" Offset="1"/>
+        </LinearGradientBrush>
+      </Setter.Value>
+    </Setter>
+    <Setter Property="FontFamily" Value="avares://Rishade/Assets/Rubik-VariableFont_wght.ttf#Rubik" />
+  </Style>
+
+  <Style Selector="TextBlock">
+    <Setter Property="Foreground" Value="{StaticResource TextBrush}" />
+  </Style>
+
+  <Style Selector="TextBlock.h1">
+    <Setter Property="FontSize" Value="28"/>
+    <Setter Property="FontWeight" Value="Bold"/>
+    <Setter Property="Foreground" Value="{StaticResource TextBrush}" />
+  </Style>
+
+  <Style Selector="TextBlock.muted">
+    <Setter Property="Foreground" Value="{StaticResource MutedBrush}" />
+  </Style>
+
+  <Style Selector="Border.sidebar">
+    <Setter Property="Padding" Value="2"/>
+  </Style>
+
+  <Style Selector="Border.content">
+    <Setter Property="Padding" Value="28,24"/>
+  </Style>
+
+  <Style Selector="ListBox.nav">
+    <Setter Property="Background" Value="Transparent"/>
+    <Setter Property="BorderThickness" Value="0"/>
+  </Style>
+
+  <Style Selector="ListBox.nav ListBoxItem">
+    <Setter Property="Background" Value="Transparent"/>
+    <Setter Property="BorderBrush" Value="Transparent"/>
+    <Setter Property="BorderThickness" Value="1"/>
+    <Setter Property="CornerRadius" Value="4"/>
+    <Setter Property="Padding" Value="8,6"/>
+    <Setter Property="Margin" Value="0,2"/>
+  </Style>
+
+  <Style Selector="ListBox.nav ListBoxItem:selected">
+    <Setter Property="Background" Value="{StaticResource SelectedBrush}" />
+    <Setter Property="BorderBrush" Value="#3C3C3C"/>
+  </Style>
+
+  <Style Selector="TextBlock.nav-icon">
+    <Setter Property="Foreground" Value="{StaticResource AccentBrush}" />
+    <Setter Property="FontSize" Value="14"/>
+  </Style>
+
+  <Style Selector="Button">
+    <Setter Property="Background" Value="{StaticResource PanelBg2Brush}" />
+    <Setter Property="Foreground" Value="{StaticResource TextBrush}" />
+    <Setter Property="BorderBrush" Value="{StaticResource BorderBrush}" />
+    <Setter Property="BorderThickness" Value="1"/>
+    <Setter Property="CornerRadius" Value="10"/>
+    <Setter Property="Padding" Value="12,8"/>
+  </Style>
+
+  <Style Selector="Button.primary">
+    <Setter Property="Background" Value="{StaticResource PrimaryBrush}" />
+    <Setter Property="Foreground" Value="#061520"/>
+    <Setter Property="BorderThickness" Value="0"/>
+    <Setter Property="FontWeight" Value="Bold"/>
+  </Style>
+
+  <Style Selector="ScrollViewer">
+    <Setter Property="Background" Value="Transparent"/>
+    <Setter Property="Padding" Value="0"/>
+  </Style>
+
+  <Style Selector="ScrollBar">
+    <Setter Property="Width" Value="10"/>
+    <Setter Property="Background" Value="Transparent"/>
+    <Setter Property="CornerRadius" Value="5"/>
+  </Style>
+
+  <Style Selector="ScrollBar.Track">
+    <Setter Property="Background" Value="Transparent"/>
+    <Setter Property="CornerRadius" Value="5"/>
+  </Style>
+
+  <Style Selector="ScrollBar.Thumb">
+    <Setter Property="Background" Value="#555555"/>
+    <Setter Property="CornerRadius" Value="5"/>
+    <Setter Property="Margin" Value="2"/>
+    <Setter Property="BorderBrush" Value="#777777"/>
+    <Setter Property="BorderThickness" Value="1"/>
+  </Style>
+
+  <Style Selector="ScrollBar.Thumb:pointerover">
+    <Setter Property="Background" Value="#888888"/>
+    <Setter Property="BorderBrush" Value="#AAAAAA"/>
+  </Style>
+
+  <Style Selector="ScrollBar.Thumb:pressed">
+    <Setter Property="Background" Value="#AAAAAA"/>
+    <Setter Property="BorderBrush" Value="#CCCCCC"/>
+  </Style>
+
+<Style Selector="Expander.card">
+  <Setter Property="Background" Value="{StaticResource PanelBg3Brush}" />
+  <Setter Property="BorderBrush" Value="{StaticResource BorderBrush}" />
+  <Setter Property="BorderThickness" Value="1"/>
+  <Setter Property="CornerRadius" Value="4"/>
+  <Setter Property="Padding" Value="12"/>
+  <Setter Property="HorizontalAlignment" Value="Stretch"/>
+  <Setter Property="VerticalAlignment" Value="Stretch"/>
+</Style>
+
+<Style Selector="Expander.card ToggleButton">
+    <Setter Property="Background" Value="Transparent" />
+    <Setter Property="Foreground" Value="{StaticResource TextBrush}" />
+    <Setter Property="FontWeight" Value="Bold"/>
+    <Setter Property="Padding" Value="4,6"/>
+    <Setter Property="BorderThickness" Value="0"/>
+    <Setter Property="CornerRadius" Value="4"/>
+    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+</Style>
+
+<Style Selector="Expander.card ToggleButton:pointerover">
+    <Setter Property="Background" Value="#33FFFFFF"/>
+</Style>
+
+<Style Selector="Expander.card ToggleButton:pressed">
+    <Setter Property="Background" Value="#22FFFFFF"/>
+</Style>
+
+<Style Selector="Expander.card ContentPresenter">
+  <Setter Property="Margin" Value="4"/>
+</Style>
+
+<Style Selector="Button.accent">
+  <Setter Property="Background" Value="{DynamicResource SystemAccentBrush}" />
+  <Setter Property="BorderBrush" Value="{DynamicResource SystemAccentBrush}" />
+  <Setter Property="CornerRadius" Value="4"/>
+</Style>
+
+<Style Selector="Button.accent:pointerover">
+  <Setter Property="Background" Value="{DynamicResource SystemAccentDarkBrush}" />
+</Style>
+
+<Style Selector="Button.corner4">
+    <Setter Property="CornerRadius" Value="4"/>
+</Style>
+
+    <Style Selector="TextBlock.textblock">
+  <Setter Property="Background" Value="{StaticResource PanelBg3Brush}" />
+  <Setter Property="Foreground" Value="{StaticResource TextBrush}" />
+  <Setter Property="Padding" Value="12"/>
+  <Setter Property="FontSize" Value="14"/>
+  <Setter Property="FontWeight" Value="Bold"/>
+  <Setter Property="TextWrapping" Value="Wrap"/>
+</Style>
+
+ <Style Selector="TextBox.search">
+  <Setter Property="Background" Value="{StaticResource PanelBg3Brush}" />
+  <Setter Property="Foreground" Value="{StaticResource TextBrush}" />
+  <Setter Property="BorderBrush" Value="{StaticResource BorderBrush}" />
+  <Setter Property="BorderThickness" Value="1" />
+  <Setter Property="CornerRadius" Value="4"/>
+</Style>
+
+  <Style Selector="Border.card">
+    <Setter Property="Background">
+      <Setter.Value>
+        <SolidColorBrush Color="{StaticResource PanelBg3}" />
+      </Setter.Value>
+    </Setter>
+    <Setter Property="BorderBrush" Value="{StaticResource BorderBrush}" />
+    <Setter Property="BorderThickness" Value="1" />
+    <Setter Property="CornerRadius" Value="4" />
+    <Setter Property="Padding" Value="12"/>
+  </Style>
+</Styles>
