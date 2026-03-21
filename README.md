@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/KloBraticc/RiShade/main/Images/image3.png" alt="RiShade Screenshot 3" width="380" style="margin:5px;">
+      <img src="https://raw.githubusercontent.com/KloBraticc/RiShade/main/Images/Untitled%20design%20(7).png" alt="RiShade Screenshot 3" width="380" style="margin:5px;">
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/KloBraticc/RiShade/main/Images/image4.png" alt="RiShade Screenshot 4" width="380" style="margin:5px;">
