@@ -22,6 +22,31 @@
 
 </div>
 
+## Basic Rishade Preview
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/KloBraticc/RiShade/main/Images/Image1.png" alt="RiShade Screenshot 1" width="380" style="margin:5px;">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/KloBraticc/RiShade/main/Images/Image2.png" alt="RiShade Screenshot 2" width="380" style="margin:5px;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/KloBraticc/RiShade/main/Images/image3.png" alt="RiShade Screenshot 3" width="380" style="margin:5px;">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/KloBraticc/RiShade/main/Images/image4.png" alt="RiShade Screenshot 4" width="380" style="margin:5px;">
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## How?
 
 RiShade uses GLFW to create a transparent, on top OpenGL window that covers your entire screen.
