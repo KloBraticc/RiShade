@@ -27,6 +27,7 @@ from OpenGL.GL import *
 # I am currently learning Python and utilized a significant amount of AI assistance for this mini project
 # If this project grows significantly, I plan to continue developing my Python skills further
 # I also watched numerous tutorials throughout the process.
+
 # Day 2 of wasting my life
 
 try:
