@@ -370,21 +370,21 @@ class Settings:
     ssr_str: float = 1.00
     ssr_threshold: float = 0.50
     ssr_roughness: float = 0.000
-    ssr_max_dist: float = 0.135
-    ssr_x_nudge: float = 0.010
-    ssr_motion_scale: float = 0.45
+    ssr_max_dist: float = 0.200
+    ssr_x_nudge: float = 0.030
+    ssr_motion_scale: float = 0.75
     ssr_fade_lo: float = 0.001
     ssr_fade_hi: float = 1.000
     ssr_rim: float = 0.35
 
     gloss_fresnel: float = 1.0
-    gloss_nz: float = 0.570
+    gloss_nz: float = 0.550
     gloss_darken: float = 0.80
     gloss_bright: float = 1.10
     gloss_cap: float = 0.50
     gloss_tint: Tuple = field(default_factory=lambda: (1.0, 1.0, 1.0))
-    gloss_spec_pow: float = 4.5
-    gloss_spec_scale: float = 0.55
+    gloss_spec_pow: float = 4
+    gloss_spec_scale: float = 0.5
     gloss_spec_tint: Tuple = field(default_factory=lambda: (1.0, 1.0, 1.0))
 
     ao_en: bool = False
