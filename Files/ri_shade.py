@@ -909,7 +909,6 @@ class FrameGrabber(threading.Thread):
                         del cam
                 except Exception:
                     pass
-            # Brief pause lets the GPU settlw
             if not self._stop.is_set():
                 time.sleep(0.5)
                 self.restarted.set()
@@ -1303,24 +1302,19 @@ _preset_status_t = [0.0]
 
 
 def _ask_preset_name() -> str:
-
     result = [""]
-
     root = tk.Tk()
     root.withdraw()
-
     dlg = tk.Toplevel(root)
     dlg.title("Save Preset")
     dlg.resizable(False, False)
     dlg.attributes("-topmost", True)
-
     dlg.geometry(
         "320x110+{}+{}".format(
             (dlg.winfo_screenwidth() - 320) // 2,
             (dlg.winfo_screenheight() - 110) // 2,
         )
     )
-
     tk.Label(dlg, text="Enter a name for this preset:", pady=8).pack()
     entry = tk.Entry(dlg, width=36)
     entry.pack(padx=12)
@@ -1341,7 +1335,6 @@ def _ask_preset_name() -> str:
     tk.Button(btn_frame, text="Cancel", width=10, command=_on_cancel).pack(
         side="left", padx=4
     )
-
     dlg.bind("<Return>", _on_ok)
     dlg.bind("<Escape>", _on_cancel)
 
@@ -1373,7 +1366,6 @@ def _refresh_custom_list():
 
 
 def tab_presets(s: Settings) -> Settings:
-    # Built-in presets
     psc(imgui.COLOR_TEXT, ACCENT)
     imgui.text("  Built-in Presets")
     imgui.pop_style_color()
@@ -1505,12 +1497,6 @@ def tab_presets(s: Settings) -> Settings:
 
 def tab_app(s: Settings) -> Settings:
     imgui.push_item_width(-1)
-    imgui.spacing()
-    subheading("FPS")
-    cap_label = "Unlimited" if s.fps_cap == 0 else f"{s.fps_cap} FPS"
-    s.fps_cap = int(
-        slid(f"FPS Cap:  {cap_label}##fpc", float(s.fps_cap), 0.0, 360.0, "%.0f")
-    )
     imgui.spacing()
     subheading("Panel")
     s.gui_alpha = slid("Opacity##pa", s.gui_alpha, 0.1, 1.0)
@@ -1726,7 +1712,7 @@ def main():
         raise RuntimeError("Window creation failed")
     glfw.set_window_pos(window, 0, 0)
     glfw.make_context_current(window)
-    glfw.swap_interval(1)
+    glfw.swap_interval(0)  # No vsync - uncapped, zero lag
 
     hwnd_gl = win32gui.FindWindow(None, "rishade")
     if hwnd_gl:
@@ -1818,15 +1804,6 @@ def main():
         (GL_TEXTURE_WRAP_T, GL_CLAMP_TO_EDGE),
     ]:
         glTexParameteri(GL_TEXTURE_2D, p, v)
-
-    frame_bytes = W * H * 3
-    upload_buf = np.empty((H, W, 3), dtype=np.uint8)
-    pbos = glGenBuffers(2)
-    for p in pbos:
-        glBindBuffer(GL_PIXEL_UNPACK_BUFFER, p)
-        glBufferData(GL_PIXEL_UNPACK_BUFFER, frame_bytes, None, GL_STREAM_DRAW)
-    glBindBuffer(GL_PIXEL_UNPACK_BUFFER, 0)
-    pbo_idx = 0
 
     grabber = FrameGrabber(W, H, roblox_hwnd)
     grabber.start()
@@ -1925,7 +1902,6 @@ def main():
     tex_ready = False
     has_frame = False
     t_start = time.perf_counter()
-    cap_debt = 0.0
     accum_ping = True
     ssr_warmup = 0
     prev_ssr_en = False
@@ -1933,7 +1909,6 @@ def main():
     SAVE_INTERVAL = 2.0
 
     while not glfw.window_should_close(window):
-        t0 = time.perf_counter()
         glfw.poll_events()
         impl.process_inputs()
 
@@ -1979,25 +1954,17 @@ def main():
 
         frame = grabber.get_frame()
         if frame is not None:
-            np.copyto(upload_buf, frame[::-1])
-            cur_pbo = pbos[pbo_idx]
-            next_pbo = pbos[1 - pbo_idx]
-            glBindBuffer(GL_PIXEL_UNPACK_BUFFER, next_pbo)
-            glBufferData(GL_PIXEL_UNPACK_BUFFER, frame_bytes, None, GL_STREAM_DRAW)
-            glBufferSubData(GL_PIXEL_UNPACK_BUFFER, 0, frame_bytes, upload_buf)
-            glBindBuffer(GL_PIXEL_UNPACK_BUFFER, cur_pbo)
+            flipped = frame[::-1]
             glBindTexture(GL_TEXTURE_2D, screen_tex)
             if not tex_ready:
                 glTexImage2D(
-                    GL_TEXTURE_2D, 0, GL_RGB, W, H, 0, GL_RGB, GL_UNSIGNED_BYTE, None
+                    GL_TEXTURE_2D, 0, GL_RGB, W, H, 0, GL_RGB, GL_UNSIGNED_BYTE, flipped
                 )
                 tex_ready = True
             else:
                 glTexSubImage2D(
-                    GL_TEXTURE_2D, 0, 0, 0, W, H, GL_RGB, GL_UNSIGNED_BYTE, None
+                    GL_TEXTURE_2D, 0, 0, 0, W, H, GL_RGB, GL_UNSIGNED_BYTE, flipped
                 )
-            glBindBuffer(GL_PIXEL_UNPACK_BUFFER, 0)
-            pbo_idx = 1 - pbo_idx
             has_frame = True
 
         if not has_frame:
@@ -2208,16 +2175,6 @@ def main():
             save_settings(s)
             prev_s = copy.deepcopy(s)
             last_save_t = now_save
-
-        if s.fps_cap > 0:
-            target = 1.0 / s.fps_cap
-            cap_debt += target - (time.perf_counter() - t0)
-            cap_debt = max(cap_debt, -target)
-            if cap_debt > 0.0005:
-                time.sleep(cap_debt)
-                cap_debt -= time.perf_counter() - t0 - (now - t0)
-        else:
-            cap_debt = 0.0
 
     save_settings(s)
     print(f"settings saved to {SAVE_PATH}")
